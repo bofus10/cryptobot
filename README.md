@@ -1,2 +1,2 @@
 # cryptobot
-Crypto Bot to track your favorite coins
+CryptoBot on Telegram to track your coins!
